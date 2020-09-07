@@ -1,6 +1,6 @@
 package no.oslomet.cs.algdat.Oblig1;
 
-////// Løsningsforslag Oblig 1 ////////////////////////
+//Izen Asmar Nasar, S341848, s341848@oslomet.no
 
 import java.lang.UnsupportedOperationException;
 import java.util.NoSuchElementException;
