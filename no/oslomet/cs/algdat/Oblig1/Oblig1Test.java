@@ -23,6 +23,10 @@ import java.util.*;
  */
 public class Oblig1Test {
 
+    /*
+    Det blir flest ombyttninger når arrayet er sortert fra minst til størst.
+    Det blir færrest ombyttninger når det største tallet er først i arrayet.
+     */
     ///// Oppgave 1 //////////////////////////////////////
     @org.junit.jupiter.api.Test
     void oppgave1() {
